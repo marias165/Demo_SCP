@@ -47,7 +47,7 @@ To replicate the results of the sensitivity analysis study or explore the code f
 
 One particularly useful resource is the `Jupyter_file.ipynb` located in the `code/` directory. This Jupyter notebook provides an interactive environment for running and analyzing the simulations. You can use this notebook to execute the code, visualize the results, and make modifications as needed.
 
-Please note that the code provided in this repository is for educational and research purposes. You are free to use, modify, and distribute the code as per the terms of the `Licence/`. Feel free to adapt and customize the code to suit your specific requirements. If you make improvements or modifications, we encourage you to share them with the community by submitting a pull request.
+Please note that the code provided in this repository is for educational and research purposes. You are free to use, modify, and distribute the code as per the terms of the [MIT License](LICENSE). Feel free to adapt and customize the code to suit your specific requirements. If you make improvements or modifications, we encourage you to share them with the community by submitting a pull request.
 
 If you have any questions or need further assistance with the usage of the code, please reach out to the author, Marian Iglesias Blanco.
 
