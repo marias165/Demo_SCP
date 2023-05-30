@@ -72,4 +72,4 @@ For any questions, suggestions, or collaborations related to this project, pleas
   - Email: [maria.sanchez17@estudiant.upf.edu](mailto:maria.sanchez17@estudiant.upf.edu)
   - LinkedIn: [linkedin.com/in/mariasanchez165](https://www.linkedin.com/in/mariasanchez165)
 
-Please don't hesitate to contact either of us with any inquiries, suggestions, or feedback. We are available and eager to assist you. Your input is greatly appreciated!
+Please don't hesitate to contact either of us with any inquiries, suggestions, or feedback. We are available and eager to assist you. 
