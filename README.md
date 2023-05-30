@@ -24,8 +24,6 @@ The primary objectives of this research project are as follows:
 5. Derive meaningful conclusions regarding geometry characteristics, methodology, and material selection for accurate modeling of LAA occluder deployment.
 6. Lay the groundwork for future developments, aiming to provide clinicians with a realistic device deployment option for enhanced pre-procedural planning.
 
-Apologies for the confusion. Here's an updated version of the repository structure without the `data/` and `docs/` directories:
-
 ## Repository Structure
 
 This repository is structured as follows:
@@ -35,15 +33,12 @@ This repository is structured as follows:
 - `README.md`: The main README file that provides an overview of the project, its objectives, and instructions for usage.
 - `wiki/`: Contains a dedicated wiki page with supplementary information, explanations, and additional resources related to the project.
 
-Please refer to the respective directories and files for detailed information on their contents and usage.
 
 ## Author
 
 This research project is authored by Marian Iglesias Blanco, a biomedical student from UPF. 
 
 ## Usage
-
-To replicate the results of the sensitivity analysis study or explore the code for further research, please refer to the instructions provided in the repository. The code files and resources are organized in a way that is intuitive and self-explanatory.
 
 One particularly useful resource is the `Jupyter_file.ipynb` located in the `code/` directory. This Jupyter notebook provides an interactive environment for running and analyzing the simulations. You can use this notebook to execute the code, visualize the results, and make modifications as needed.
 
